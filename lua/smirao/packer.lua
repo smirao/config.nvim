@@ -14,7 +14,6 @@ return require('packer').startup(function(use)
   }
 
   
-  use "olimorris/onedarkpro.nvim"
   use { "scottmckendry/cyberdream.nvim" }
   
   use 'xiyaowong/transparent.nvim'
@@ -27,9 +26,8 @@ return require('packer').startup(function(use)
   use('nvim-treesitter/playground')
   use('ThePrimeagen/harpoon')
   use('neovim/nvim-lspconfig')
-  use 'hrsh7th/nvim-cmp'
-      use 'hrsh7th/cmp-buffer'
-      use 'hrsh7th/cmp-nvim-lsp'
-      use 'hrsh7th/cmp-vsnip' -- Or another snippet engine like LuaSnip
-      use 'hrsh7th/vim-vsnip'
+  use 'Mofiqul/dracula.nvim'
+  use 'ellisonleao/gruvbox.nvim'
+  -- Using Packer
+use 'navarasu/onedark.nvim'
 end)
