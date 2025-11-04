@@ -1,4 +1,2 @@
-# 💤 LazyVim
-
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+# Silverio's Neovim Configurations
+I was using packer.vim, but I found the LazyVim setup to have everythihng that I want. I will however be removing and adding some stuff periodically. 
