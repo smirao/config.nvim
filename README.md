@@ -1,10 +1,4 @@
-# Introduction
+# 💤 LazyVim
 
-This repo hosts my Nvim configuration for Linux, macOS, and Windows.
-
-# Install and setup
-
-Move to the ~/.config/nvim directory and run the following command for installation:
-```sh
-git clone https://github.com/smirao/config.nvim.git .
-```
+A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
+Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
